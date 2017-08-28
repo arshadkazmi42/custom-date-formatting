@@ -1,6 +1,9 @@
 Custom Date Formatting
 ======================
 
+How to install?
+<b>npm install customdateformating</b>
+
 Small package which provides some basic functions for custom date formatting
 
 1. <b><u>getNextOrPrevDateCustomFormat()</u></b><br>
