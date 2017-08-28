@@ -1,0 +1,38 @@
+{
+  "name": "customdateformating",
+  "version": "0.0.1",
+  "description": "Small npm package for custom date formatting",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/custom-date-formatting.git"
+  },
+  "keywords": [
+    "\"date\"",
+    "\"formatting\"",
+    "\"custom",
+    "date\"",
+    "\"custom",
+    "date",
+    "formatting\""
+  ],
+  "author": "Arshad Kazmi <arshadkazmi42@gmail.com> (http://arshad.kaspat.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/custom-date-formatting/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/custom-date-formatting#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  },
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
