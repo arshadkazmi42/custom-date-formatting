@@ -1,6 +1,6 @@
 {
   "name": "customdateformating",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Small npm package for custom date formatting",
   "main": "index.js",
   "directories": {
