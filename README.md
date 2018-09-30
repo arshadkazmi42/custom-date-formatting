@@ -26,8 +26,3 @@
 ## getTimeStampFromCurrentDateFormat()</u></b><br>
     This function takes input <b>date</b> (input date), <b>currentFormat</b> (input date format)<br>
     It will return input date value as timestamp in milliseconds<br>
-
-
-## NOTE 
-Please drop in any suggestions to <i>arshadkazmi42@gmail.com</i>
-
