@@ -13,17 +13,19 @@ describe('#nextOrPrevDateCustomFormat', function() {
     });
 });
 
-// describe('#nextOrPrevMinuteDateCustomFormat', function () {
-//     it('converts input date, adding some minute', function () {
-//         nextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1).should.equal("2017-08-28 23:21")
-//     });
-// });
-//
-// describe('#nextOrPrevSecondDateCustomFormat', function () {
-//     it('converts input date, adding some second', function () {
-//         nextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10).should.equal("2017-08-28 23:20:50");
-//     });
-// });
+describe('#nextOrPrevMinuteDateCustomFormat', function () {
+    it('converts input date, adding some minute', function () {
+        nextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1).should.equal(moment((moment().add(1,'minute'))).format("YYYY-MM-DD HH:mm"));
+        nextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", -1).should.equal(moment((moment().add(-1,'minute'))).format("YYYY-MM-DD HH:mm"));
+    });
+});
+
+describe('#nextOrPrevSecondDateCustomFormat', function () {
+    it('converts input date, adding some second', function () {
+        nextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10).should.equal(moment((moment().add(10,'second'))).format("YYYY-MM-DD HH:mm:ss"));
+        nextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", -10).should.equal(moment((moment().add(-10,'second'))).format("YYYY-MM-DD HH:mm:ss"));
+    });
+});
 
 describe('#customSourceDateFormatToCustomNewDateFormat', function () {
     it('converts custom input date to source format to required format', function () {
