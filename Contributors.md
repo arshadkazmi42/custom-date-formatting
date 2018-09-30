@@ -2,5 +2,6 @@
 - Arshad Kazmi (https://github.com/arshadkazmi42)
 - Mayank Dhiman (https://github.com/mynkdhmn)
 - Shubhankar Chandra Banerjee(https://github.com/shubhankarb180)
+- Siddharth Saurabh (https://github.com/siddhartthecoder)
 
 *Hoping to add you to this list as well ;) *
