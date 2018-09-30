@@ -15,7 +15,7 @@ describe('#nextOrPrevDateCustomFormat', function() {
 
 describe('#nextOrPrevMinuteDateCustomFormat', function () {
   it('converts input date, adding some minute', function () {
-         nextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1).should.equal(moment().format('YYYY-MM-DD HH:mm:ss')
+         nextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1).should.equal(moment().format('YYYY-MM-DD HH:mm:ss');
      });
 });
 
