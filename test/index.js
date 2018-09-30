@@ -9,7 +9,9 @@ var should = require('chai').should(),
 
 describe('#nextOrPrevDateCustomFormat', function() {
     it('converts input date to next date', function() {
-        nextOrPrevDateCustomFormat("YYYY-MM-DD", 0).should.equal(moment().format("YYYY-MM-DD"));
+        nextOrPrevDateCustomFormat("YYYY-MM-DD", 1).should.equal(moment((moment().add(1,'day'))).format("YYYY-MM-DD"));
+        nextOrPrevDateCustomFormat("YYYY-MM-DD", -1).should.equal(moment((moment().add(-1,'day'))).format("YYYY-MM-DD"));
+
     });
 });
 
@@ -29,12 +31,12 @@ describe('#nextOrPrevSecondDateCustomFormat', function () {
 
 describe('#customSourceDateFormatToCustomNewDateFormat', function () {
     it('converts custom input date to source format to required format', function () {
-        customSourceDateFormatToCustomNewDateFormat("2017-08-28 23:22:00", "YYYY-MM-DD HH:mm:ss", "dddd DD MMM YYYY").should.equal("Monday 28 Aug 2017");
+        customSourceDateFormatToCustomNewDateFormat(moment().format("YYYY-MM-DD HH:mm:ss"), "YYYY-MM-DD HH:mm:ss", "dddd DD MMM YYYY").should.equal(moment().format("dddd DD MMM YYYY"));
     });
 });
 
 describe('#timeStampFromCurrentDateFormat', function () {
    it('converts custom input date and its format to timestamp', function () {
-       timeStampFromCurrentDateFormat("28 Aug 2017", "DD MMM YYYY").should.equal(1503858600000);
+       timeStampFromCurrentDateFormat(moment().format("DD MMM YYYY"), "DD MMM YYYY").should.equal(Date.parse(moment().format("DD MMM YYYY")));
    });
 });
