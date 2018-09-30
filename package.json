@@ -33,6 +33,6 @@
     "mocha": "^3.5.0"
   },
   "dependencies": {
-    "moment": "^2.18.1"
+    "moment": "^2.22.2"
   }
 }
