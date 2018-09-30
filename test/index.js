@@ -15,24 +15,24 @@ describe('#nextOrPrevDateCustomFormat', function() {
 
 describe('#nextOrPrevMinuteDateCustomFormat', function () {
   it('converts input date, adding some minute', function () {
-         nextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1).should.equal("2017-08-28 23:21")
+         nextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1).should.equal(moment().format('YYYY-MM-DD HH:mm:ss')
      });
 });
 
  describe('#nextOrPrevSecondDateCustomFormat', function () {
      it('converts input date, adding some second', function () {
-         nextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10).should.equal("2017-08-28 23:20:50");
+         nextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10).should.equal(moment().format('YYYY-MM-DD HH:mm:ss');
      });
  });
 
 describe('#customSourceDateFormatToCustomNewDateFormat', function () {
     it('converts custom input date to source format to required format', function () {
-        customSourceDateFormatToCustomNewDateFormat(moment().format('YYYY-MM-DD HH:mm:ss'), "YYYY-MM-DD HH:mm:ss", "dddd DD MMM YYYY").should.equal("Monday 28 Aug 2017");
+        customSourceDateFormatToCustomNewDateFormat(moment().format('YYYY-MM-DD HH:mm:ss'), "YYYY-MM-DD HH:mm:ss", "dddd DD MMM YYYY").should.equal(moment().format('dddd DD MMM YYYY');
     });
 });
 
 describe('#timeStampFromCurrentDateFormat', function () {
    it('converts custom input date and its format to timestamp', function () {
-       timeStampFromCurrentDateFormat(moment().format('DD MM YYYY'), "DD MMM YYYY").should.equal(1503858600000);
+       timeStampFromCurrentDateFormat(moment().format('DD MMM YYYY'), "DD MMM YYYY").should.equal(Date.now());
    });
 });
