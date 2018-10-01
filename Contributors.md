@@ -15,6 +15,7 @@
 - Siddharth Saurabh (https://github.com/siddhartthecoder)
 - Sandeep Ranjan(https://github.com/srsandy)
 - Carmela Valarao (https://github.com/ccarmivalarao)
+- Sarfraz Anwar (https://github.com/msarfrazanwar)
 - Aakash Agarwal(https://github.com/aakash2602)
 - Sinu Mohan(https://github.com/sinumohan)
 - Param Mittal (https://github.com/parammittal16)
