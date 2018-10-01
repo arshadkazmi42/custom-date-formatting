@@ -9,25 +9,25 @@ var should = require('chai').should(),
 
 describe('#nextOrPrevDateCustomFormat', function() {
     it('converts input date to next date', function() {
-        nextOrPrevDateCustomFormat("YYYY-MM-DD", 0).should.equal(moment().format("YYYY-MM-DD"));
+        nextOrPrevDateCustomFormat("YYYY-MM-DD", 1).should.equal(moment().add(1,"days").format("YYYY-MM-DD"));
     });
 });
 
 describe('#nextOrPrevMinuteDateCustomFormat', function () {
   it('converts input date, adding some minute', function () {
-         nextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 0).should.equal(moment().format("YYYY-MM-DD HH:mm"));
+         nextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1).should.equal(moment().add(1,"minutes").format("YYYY-MM-DD HH:mm"));
       
 });
 });
 
  describe('#nextOrPrevSecondDateCustomFormat', function () {
      it('converts input date, adding some second', function () {
-         nextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 0).should.equal(moment().format("YYYY-MM-DD HH:mm:ss"));
+         nextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10).should.equal(moment().add(10,"seconds").format("YYYY-MM-DD HH:mm:ss"));
      });
  });
 
 describe('#customSourceDateFormatToCustomNewDateFormat', function () {
-    it('converts custom input date to source format to required format', function () {
+    it('Should convert input date to input format', function () {
         customSourceDateFormatToCustomNewDateFormat(moment().format("YYYY-MM-DD HH:mm:ss"), "YYYY-MM-DD HH:mm:ss", "dddd DD MMM YYYY").should.equal(moment().format("dddd DD MMM YYYY"));
     });
 });
@@ -37,4 +37,3 @@ describe('#timeStampFromCurrentDateFormat', function () {
        timeStampFromCurrentDateFormat(moment().format("DD MMM YYYY"), "DD MMM YYYY").should.equal(Date.parse(moment().format("DD MMM YYYY")));
    });
 });
-
