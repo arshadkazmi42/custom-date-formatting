@@ -7,9 +7,14 @@
 [![NPM](https://nodei.co/npm/customdateformating.png)](https://www.npmjs.com/package/customdateformating/)
 
 # Small package which provides some basic functions for custom date formatting
-`getNextOrPrevDateCustomFormat()`
-This function takes an input <b>format</b> of date required and <b>numberOfDays</b> to add from current day.<br>
-For previous days <b>numberOfDays</b> should be passed as negative value.<br>
+1.  `getNextOrPrevDateCustomFormat()`
+Pass the format of  the date required and numberOfDays to add from current day to the Function.<br>
+For previous days <b>numberOfDays</b> should be passed as negative value. It will return the new date.<br>
+```
+// Create Instance of the DateValidator
+const DateFormatting = require('custom-date-formatting');
+DateFormatting.nextOrPrevDateCustomFormat("YYYY-MM-DD", 0);
+```
 
 ## `getNextOrPrevMinuteDateCustomFormat()`
 This function takes an input <b>format</b> of date required and <b>minutesToAdd</b> to add/subtract minutes from current time. <br> For passed minute of time, <b>minutesToAdd</b> should be passed as negative value.<br>
