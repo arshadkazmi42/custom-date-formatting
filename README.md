@@ -14,7 +14,7 @@ For previous days <b>numberOfDays</b> should be passed as negative value.<br>
 // Create Instance of the DateValidator
 const DateFormatting = require('custom-date-formatting');
 //This will return a string with new date
-DateFormatting.getnextOrPrevDateCustomFormat("YYYY-MM-DD", 0);
+DateFormatting.getNextOrPrevDateCustomFormat("YYYY-MM-DD", 0);
 
 ```
 
@@ -24,7 +24,7 @@ Pass the <b>format</b> of date required and <b>minutesToAdd</b> to add/subtract 
 // Create Instance of the DateValidator
 const DateFormatting = require('custom-date-formatting');
 //This will return a string with new date and time
-DateFormatting.getnextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1);
+DateFormatting.getNextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1);
 
 ```
 
@@ -34,7 +34,7 @@ Pass the <b>format</b> of date required and <b>secondsToAdd</b> to add/subtract 
 // Create Instance of the DateValidator
 const DateFormatting = require('custom-date-formatting');
 //This will return a string with new date and time
-DateFormatting.getnextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10);
+DateFormatting.getNextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10);
 
 ```
 
