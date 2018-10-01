@@ -2,6 +2,7 @@
 - Arshad Kazmi (https://github.com/arshadkazmi42)
 - Mayank Dhiman (https://github.com/mynkdhmn)
 - Shubhankar Chandra Banerjee(https://github.com/shubhankarb180)
+- Ashutosh Dwivedi(https://github.com/shubhankarb180)
 - Saurav Jaiswal (https://github.com/sauravjaiswalsj)
 - Indraneel Sarkar(https://github.com/sark01)
 - FlameAngulat(https://github.com/flameAngular)
