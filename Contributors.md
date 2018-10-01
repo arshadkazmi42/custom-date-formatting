@@ -2,6 +2,7 @@
 - Arshad Kazmi (https://github.com/arshadkazmi42)
 - Mayank Dhiman (https://github.com/mynkdhmn)
 - Shubhankar Chandra Banerjee(https://github.com/shubhankarb180)
+- FlameAngulat(https://github.com/flameAngular)
 - Ali Piry (https://github.com/yripila)
 - Siddharth Saurabh (https://github.com/siddhartthecoder)
 - Sandeep Ranjan(https://github.com/srsandy)
