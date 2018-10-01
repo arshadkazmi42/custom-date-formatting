@@ -18,5 +18,6 @@
 - Aakash Agarwal(https://github.com/aakash2602)
 - Sinu Mohan(https://github.com/sinumohan)
 - Param Mittal (https://github.com/parammittal16)
+- Johnathan Belisle(https://github.com/Johnb21)
 
 *Hoping to add you to this list as well ;) *
