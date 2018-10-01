@@ -4,5 +4,6 @@
 - Shubhankar Chandra Banerjee(https://github.com/shubhankarb180)
 - Siddharth Saurabh (https://github.com/siddhartthecoder)
 - Sandeep Ranjan(https://github.com/srsandy)
+- Atiqah Hafiz (https://github.com/flowerpetalsofdoom)
 
 *Hoping to add you to this list as well ;) *
