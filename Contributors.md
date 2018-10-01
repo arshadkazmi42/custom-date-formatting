@@ -14,5 +14,6 @@
 - Siddharth Saurabh (https://github.com/siddhartthecoder)
 - Sandeep Ranjan(https://github.com/srsandy)
 - Aakash Agarwal(https://github.com/aakash2602)
+- Sinu Mohan(https://github.com/sinumohan)
 
 *Hoping to add you to this list as well ;) *
