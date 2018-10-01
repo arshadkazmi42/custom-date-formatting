@@ -1,4 +1,4 @@
-#### We sincerely thank people who have been activlely contributing to this repository:
+#### We sincerely thank people who have been actively contributing to this repository:
 - Arshad Kazmi (https://github.com/arshadkazmi42)
 - Mayank Dhiman (https://github.com/mynkdhmn)
 - Shubhankar Chandra Banerjee(https://github.com/shubhankarb180)
@@ -10,5 +10,6 @@
 - Ali Piry (https://github.com/yripila)
 - Siddharth Saurabh (https://github.com/siddhartthecoder)
 - Sandeep Ranjan(https://github.com/srsandy)
+- Max
 
 *Hoping to add you to this list as well ;) *
