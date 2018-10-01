@@ -20,5 +20,6 @@
 - Sinu Mohan(https://github.com/sinumohan)
 - Arjun Rajpal (https://github.com/arjunrajpal)
 - Param Mittal (https://github.com/parammittal16)
+- Arie Kurniawan (https://github.com/arkwrn)
 
 *Hoping to add you to this list as well ;) *
