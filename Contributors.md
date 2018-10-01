@@ -3,5 +3,10 @@
 - Mayank Dhiman (https://github.com/mynkdhmn)
 - Shubhankar Chandra Banerjee(https://github.com/shubhankarb180)
 - Saurav Jaiswal (https://github.com/sauravjaiswalsj)
+- Indraneel Sarkar(https://github.com/sark01)
+- FlameAngulat(https://github.com/flameAngular)
+- Ali Piry (https://github.com/yripila)
+- Siddharth Saurabh (https://github.com/siddhartthecoder)
+- Sandeep Ranjan(https://github.com/srsandy)
 
 *Hoping to add you to this list as well ;) *
