@@ -6,6 +6,7 @@
 - Ashutosh Dwivedi(https://github.com/shubhankarb180)
 - Saurav Jaiswal (https://github.com/sauravjaiswalsj)
 - Indraneel Sarkar(https://github.com/sark01)
+- Akash Agarwal (https://github.com/agarwal-akash) 
 - Adrian Teri (https://github.com/Adrianteri)
 - Joell Lapitan (https://github.com/jlapitan)
 - FlameAngulat(https://github.com/flameAngular)
