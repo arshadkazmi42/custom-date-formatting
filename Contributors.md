@@ -8,6 +8,7 @@
 - Adrian Teri (https://github.com/Adrianteri)
 - FlameAngulat(https://github.com/flameAngular)
 - Ali Piry (https://github.com/yripila)
+- Deepanshu Gandhi (https://github.com/nine-tails9)
 - Siddharth Saurabh (https://github.com/siddhartthecoder)
 - Sandeep Ranjan(https://github.com/srsandy)
 
