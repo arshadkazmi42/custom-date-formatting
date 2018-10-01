@@ -19,6 +19,7 @@
 - Sarfraz Anwar (https://github.com/msarfrazanwar)
 - Aakash Agarwal(https://github.com/aakash2602)
 - Sinu Mohan(https://github.com/sinumohan)
+- Grave (https://github.com/samuelgrave)
 - Arjun Rajpal (https://github.com/arjunrajpal)
 - Param Mittal (https://github.com/parammittal16)
 - Johnathan Belisle(https://github.com/Johnb21)
