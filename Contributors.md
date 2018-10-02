@@ -25,6 +25,7 @@
 - Grave (https://github.com/samuelgrave)
 - Arjun Rajpal (https://github.com/arjunrajpal)
 - Param Mittal (https://github.com/parammittal16)
+- Arie Kurniawan (https://github.com/arkwrn)
 - Johnathan Belisle(https://github.com/Johnb21)
 
 *Hoping to add you to this list as well ;) *
