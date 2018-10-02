@@ -3,6 +3,7 @@
 - Mayank Dhiman (https://github.com/mynkdhmn)
 - Sachin Kumar (https://github.com/rogers9798)
 - Shubhankar Chandra Banerjee(https://github.com/shubhankarb180)
+- Bolaji Ayodeji (https://github.com/bolajiayodeji)
 - Ashutosh Dwivedi(https://github.com/shubhankarb180)
 - Saurav Jaiswal (https://github.com/sauravjaiswalsj)
 - Indraneel Sarkar(https://github.com/sark01)
