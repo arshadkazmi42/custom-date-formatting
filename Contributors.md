@@ -1,19 +1,17 @@
 #### We sincerely thank people who have been activlely contributing to this repository:
 [Arshad Kazmi](https://github.com/arshadkazmi42)
-
 [Mayank Dhiman](https://github.com/mynkdhmn)
-
 [Sachin Kumar](https://github.com/rogers9798)
 
-[Shubhankar Chandra Banerjee(https://github.com/shubhankarb180)
+[Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 
 [Bolaji Ayodeji](https://github.com/bolajiayodeji)
 
-[Ashutosh Dwivedi(https://github.com/shubhankarb180)
+[Ashutosh Dwivedi](https://github.com/shubhankarb180)
 
 [Saurav Jaiswal](https://github.com/sauravjaiswalsj)
 
-[Indraneel Sarkar(https://github.com/sark01)
+[Indraneel Sarkar](https://github.com/sark01)
 
 [Akash Agarwal](https://github.com/agarwal-akash) 
 
