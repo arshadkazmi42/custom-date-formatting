@@ -27,5 +27,6 @@
 - [Param Mittal](https://github.com/parammittal16)
 - [Arie Kurniawan](https://github.com/arkwrn)
 - [Johnathan Belisle](https://github.com/Johnb21)
+- [Md Akram Kazmi](https://github.com/akramkazmi71)
 
 *Hoping to add you to this list as well ;) *
