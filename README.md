@@ -25,7 +25,7 @@ Pass the <b>format</b> of date required and <b>minutesToAdd</b> to add/subtract 
 const DateFormatting = require('custom-date-formatting');
 //This will return a string with new date and time
 DateFormatting.getNextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1);
-
+// Output: "2018-10-06 00:39"
 ```
 
 ### `getNextOrPrevSecondDateCustomFormat`
@@ -63,5 +63,3 @@ DateFormatting.getTimeStampFromCurrentDateFormat("28 Aug 2017", "DD MMM YYYY");
 
 # Contributing Guidelines
 Read the contributing guidelines [here](https://github.com/arshadkazmi42/ak-logger/blob/master/CONTRIBUTING.md)
-
-
