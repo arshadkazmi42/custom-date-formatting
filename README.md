@@ -18,7 +18,7 @@ DateFormatting.getNextOrPrevDateCustomFormat("YYYY-MM-DD", 0);
 
 ```
 
-### `getNextOrPrevMinuteDateCustomFormat`
+### Custom Format date with days (+/-)
 Pass the <b>format</b> of date required and <b>minutesToAdd</b> to add/subtract minutes from current time to the Function.<br> For passed minute of time, <b>minutesToAdd</b> should be passed as negative value.<br>
 ```
 // Create Instance of the DateValidator
@@ -63,5 +63,3 @@ DateFormatting.getTimeStampFromCurrentDateFormat("28 Aug 2017", "DD MMM YYYY");
 
 # Contributing Guidelines
 Read the contributing guidelines [here](https://github.com/arshadkazmi42/ak-logger/blob/master/CONTRIBUTING.md)
-
-
