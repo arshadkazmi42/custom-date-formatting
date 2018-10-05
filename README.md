@@ -36,6 +36,7 @@ const DateFormatting = require('custom-date-formatting');
 //This will return a string with new date and time
 DateFormatting.getNextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10);
 
+Output: "2018-10-06 00:40:02"
 ```
 
 ### `customSourceDateFormatToCustomNewDateFormat`
