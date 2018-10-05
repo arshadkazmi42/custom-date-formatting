@@ -56,6 +56,8 @@ const DateFormatting = require('custom-date-formatting');
 //This will return input date value as timestamp in milliseconds.
 DateFormatting.getTimeStampFromCurrentDateFormat("28 Aug 2017", "DD MMM YYYY");
 
+Output: 1503858600000
+
 ```
 
 # Contributors
