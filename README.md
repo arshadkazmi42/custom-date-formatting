@@ -52,7 +52,7 @@ DateFormatting.customSourceDateFormatToCustomNewDateFormat("2017-08-28 23:22:00"
 Pass the <b>date</b> (input date), <b>currentFormat</b> (input date format)to the function.<br>
 ```
 // Create Instance of the DateValidator
-const DateFormatting = require('custom-date-formatting');
+const DateFormatting = require('customdateformatting');
 //This will return input date value as timestamp in milliseconds.
 DateFormatting.getTimeStampFromCurrentDateFormat("28 Aug 2017", "DD MMM YYYY");
 
