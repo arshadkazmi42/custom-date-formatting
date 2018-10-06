@@ -21,6 +21,7 @@
 - [Carmela Valarao](https://github.com/ccarmivalarao)
 - [Sarfraz Anwar](https://github.com/msarfrazanwar)
 - [Aakash Agarwal](https://github.com/aakash2602)
+- [Maria Camila Gómez](https://github.com/camigomez35)
 - [Sinu Mohan](https://github.com/sinumohan)
 - [Grave](https://github.com/samuelgrave)
 - [Arjun Rajpal](https://github.com/arjunrajpal)
