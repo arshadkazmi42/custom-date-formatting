@@ -48,7 +48,7 @@ DateFormatting.customSourceDateFormatToCustomNewDateFormat("2017-08-28 23:22:00"
 
 ```
 
-### `getTimeStampFromCurrentDateFormat`
+### `Timestamp from custom date format`
 Pass the <b>date</b> (input date), <b>currentFormat</b> (input date format)to the function.<br>
 ```
 // Create Instance of the DateValidator
