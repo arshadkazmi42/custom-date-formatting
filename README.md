@@ -45,7 +45,7 @@ Pass the <b>date</b> (input date), <b>currentFormat</b> (input date format), <b>
 const DateFormatting = require('custom-date-formatting');
 //This will return a string with date in new format
 DateFormatting.customSourceDateFormatToCustomNewDateFormat("2017-08-28 23:22:00", "YYYY-MM-DD HH:mm:ss", "dddd DD MMM YYYY");
-
+// Output: "Monday 28 Aug 2017"
 ```
 
 ### `getTimeStampFromCurrentDateFormat`
@@ -63,5 +63,3 @@ DateFormatting.getTimeStampFromCurrentDateFormat("28 Aug 2017", "DD MMM YYYY");
 
 # Contributing Guidelines
 Read the contributing guidelines [here](https://github.com/arshadkazmi42/ak-logger/blob/master/CONTRIBUTING.md)
-
-
