@@ -30,5 +30,6 @@
 - [Arie Kurniawan](https://github.com/arkwrn)
 - [Johnathan Belisle](https://github.com/Johnb21)
 - [Md Akram Kazmi](https://github.com/akramkazmi71)
+- [Dawid Kozak](https://github.com/StudentDawid)
 
 *Hoping to add you to this list as well ;) *
