@@ -15,6 +15,7 @@ For previous days <b>numberOfDays</b> should be passed as negative value.<br>
 const DateFormatting = require('custom-date-formatting');
 //This will return a string with new date
 DateFormatting.getNextOrPrevDateCustomFormat("YYYY-MM-DD", 0);
+Output: "2018-10-06"
 
 ```
 
