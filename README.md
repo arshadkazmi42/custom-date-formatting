@@ -39,7 +39,7 @@ DateFormatting.getNextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10);
 Output: "2018-10-06 00:40:02"
 ```
 
-### `customSourceDateFormatToCustomNewDateFormat`
+### `Custom Source Format date custom new format`
 Pass the <b>date</b> (input date), <b>currentFormat</b> (input date format), <b>newformat</b>. (required date format)to the Function.<br>
 ```
 // Create Instance of the DateValidator
