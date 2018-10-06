@@ -19,6 +19,7 @@
 - [Siddharth Saurabh](https://github.com/siddhartthecoder)
 - [Sandeep Ranjan](https://github.com/srsandy)
 - [Carmela Valarao](https://github.com/ccarmivalarao)
+- [Juan Insuasti](https://github.com/locke189)
 - [Sarfraz Anwar](https://github.com/msarfrazanwar)
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [Sinu Mohan](https://github.com/sinumohan)
