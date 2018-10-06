@@ -28,7 +28,7 @@ DateFormatting.getNextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1);
 
 ```
 
-### `getNextOrPrevSecondDateCustomFormat`
+### `Custom Format date with Seconds (+/-)`
 Pass the <b>format</b> of date required and <b>secondsToAdd</b> to add/subtract seconds from current time.<br>For passed minute of time, <b>secondsToAdd</b> should be passed as negative value.<br>
 ```
 // Create Instance of the DateValidator
