@@ -31,5 +31,6 @@
 - [Johnathan Belisle](https://github.com/Johnb21)
 - [Md Akram Kazmi](https://github.com/akramkazmi71)
 - [Dawid Kozak](https://github.com/StudentDawid)
+- [Alvin Tandiardi](https://github.com/alvintan05)
 
 *Hoping to add you to this list as well ;) *
