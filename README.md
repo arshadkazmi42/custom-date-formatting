@@ -7,7 +7,7 @@
 [![NPM](https://nodei.co/npm/customdateformating.png)](https://www.npmjs.com/package/customdateformating/)
 
 ## Small package which provides some basic functions for custom date formatting
-### `Custom Format date with days (+/-)`
+### `Custom Format date with Days (+/-)`
 Pass the <b>format</b> of  the date required and <b>numberOfDays</b> to add from current day to the Function.<br>
 For previous days <b>numberOfDays</b> should be passed as negative value.<br>
 ```
