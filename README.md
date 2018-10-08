@@ -23,7 +23,7 @@ Output: "2018-10-06"
 Pass the <b>format</b> of date required and <b>minutesToAdd</b> to add/subtract minutes from current time to the Function.<br> For passed minute of time, <b>minutesToAdd</b> should be passed as negative value.<br>
 ```
 // Create Instance of the DateValidator
-const DateFormatting = require('custom-date-formatting');
+const DateFormatting = require('customdateformatting');
 //This will return a string with new date and time
 DateFormatting.getNextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1);
 // Output: "2018-10-06 00:39"
