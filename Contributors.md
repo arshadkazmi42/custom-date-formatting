@@ -21,6 +21,7 @@
 - [Siddharth Saurabh](https://github.com/siddhartthecoder)
 - [Sandeep Ranjan](https://github.com/srsandy)
 - [Carmela Valarao](https://github.com/ccarmivalarao)
+- [Ryan M](https://github.com/hyp3rflux)
 - [Juan Insuasti](https://github.com/locke189)
 - [Sarfraz Anwar](https://github.com/msarfrazanwar)
 - [Aakash Agarwal](https://github.com/aakash2602)
