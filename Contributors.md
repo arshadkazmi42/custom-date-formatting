@@ -1,4 +1,5 @@
 #### We sincerely thank people who have been activlely contributing to this repository:
+- [Bishal Panda](https://github.com/sidsau97)
 - [Arshad Kazmi](https://github.com/arshadkazmi42)
 - [Mayank Dhiman](https://github.com/mynkdhmn)
 - [Sachin Kumar](https://github.com/rogers9798)
