@@ -16,6 +16,7 @@
 - [Mike Tobias](https://github.com/mct-dev)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
 - [Ali Piry](https://github.com/yripila)
+- [Tushar](https://github.com/tusharkavya)
 - [Ayush Kothari](https://github.com/aayushkothari11)
 - [Deepanshu Gandhi](https://github.com/nine-tails9)
 - [Siddharth Saurabh](https://github.com/siddhartthecoder)
