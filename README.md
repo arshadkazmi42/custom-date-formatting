@@ -55,7 +55,7 @@ Pass the <b>date</b> (input date), <b>currentFormat</b> (input date format)to th
 ```
 // Create Instance of the DateValidator
 const DateFormatting = require('customdateformatting');
-//This will return input date value as timestamp in milliseconds.
+// This will return input date value as timestamp in milliseconds.
 DateFormatting.getTimeStampFromCurrentDateFormat("28 Aug 2017", "DD MMM YYYY");
 
 ```
