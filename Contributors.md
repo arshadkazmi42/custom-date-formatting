@@ -36,5 +36,6 @@
 - [Md Akram Kazmi](https://github.com/akramkazmi71)
 - [Dawid Kozak](https://github.com/StudentDawid)
 - [Alvin Tandiardi](https://github.com/alvintan05)
+- [Vishal Bhardwaj](https://github.com/srdevelopervishal)
 
 *Hoping to add you to this list as well ;) *
