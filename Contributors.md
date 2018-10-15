@@ -37,5 +37,6 @@
 - [Dawid Kozak](https://github.com/StudentDawid)
 - [Alvin Tandiardi](https://github.com/alvintan05)
 - [Vishal Bhardwaj](https://github.com/srdevelopervishal)
+- [Chris Galvan](https://github.com/chrisgalvan)
 
 *Hoping to add you to this list as well ;) *
