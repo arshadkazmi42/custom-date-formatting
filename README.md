@@ -16,7 +16,8 @@ For previous days <b>numberOfDays</b> should be passed as negative value.<br>
 const DateFormatting = require('custom-date-formatting');
 // This will return a string with new date
 DateFormatting.getNextOrPrevDateCustomFormat("YYYY-MM-DD", 0);
-Output: "2018-10-06"
+
+// Output: "2018-10-06"
 
 ```
 
@@ -27,6 +28,7 @@ Pass the <b>format</b> of date required and <b>minutesToAdd</b> to add/subtract 
 const DateFormatting = require('custom-date-formatting');
 // This will return a string with new date and time
 DateFormatting.getNextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1);
+
 // Output: "2018-10-06 00:39"
 ```
 
@@ -38,7 +40,7 @@ const DateFormatting = require('custom-date-formatting');
 // This will return a string with new date and time
 DateFormatting.getNextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10);
 
-Output: "2018-10-06 00:40:02"
+// Output: "2018-10-06 00:40:02"
 ```
 
 ### `Custom Source Format date custom new format`
@@ -48,6 +50,7 @@ Pass the <b>date</b> (input date), <b>currentFormat</b> (input date format), <b>
 const DateFormatting = require('custom-date-formatting');
 // This will return a string with date in new format
 DateFormatting.customSourceDateFormatToCustomNewDateFormat("2017-08-28 23:22:00", "YYYY-MM-DD HH:mm:ss", "dddd DD MMM YYYY");
+
 // Output: "Monday 28 Aug 2017"
 ```
 
