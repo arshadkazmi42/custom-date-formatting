@@ -39,5 +39,6 @@
 - [Alvin Tandiardi](https://github.com/alvintan05)
 - [Vishal Bhardwaj](https://github.com/srdevelopervishal)
 - [Chris Galvan](https://github.com/chrisgalvan)
+- [meghanagottapu](https://github.com/meghanagottapu) 
 
 *Hoping to add you to this list as well ;) *
