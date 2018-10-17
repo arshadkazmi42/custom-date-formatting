@@ -7,6 +7,7 @@
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Bolaji Ayodeji](https://github.com/bolajiayodeji)
 - [Ashutosh Dwivedi](https://github.com/shubhankarb180)
+- [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Saurav Jaiswal](https://github.com/sauravjaiswalsj)
 - [Indraneel Sarkar](https://github.com/sark01)
 - [Akash Agarwal](https://github.com/agarwal-akash)
