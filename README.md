@@ -17,7 +17,7 @@ const DateFormatting = require('custom-date-formatting');
 // This will return a string with new date
 DateFormatting.getNextOrPrevDateCustomFormat("YYYY-MM-DD", 0);
 
-//Output: "2018-10-06"
+// Output: "2018-10-06"
 
 ```
 
@@ -29,7 +29,7 @@ const DateFormatting = require('custom-date-formatting');
 // This will return a string with new date and time
 DateFormatting.getNextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1);
 
-//Output: "2018-10-06 00:39"
+// Output: "2018-10-06 00:39"
 ```
 
 ### `Custom Format date with Seconds (+/-)`
@@ -40,7 +40,7 @@ const DateFormatting = require('custom-date-formatting');
 // This will return a string with new date and time
 DateFormatting.getNextOrPrevSecondDateCustomFormat("YYYY-MM-DD HH:mm:ss", 10);
 
-//Output: "2018-10-06 00:40:02"
+// Output: "2018-10-06 00:40:02"
 ```
 
 ### `Custom Source Format date custom new format`
@@ -51,7 +51,7 @@ const DateFormatting = require('custom-date-formatting');
 // This will return a string with date in new format
 DateFormatting.customSourceDateFormatToCustomNewDateFormat("2017-08-28 23:22:00", "YYYY-MM-DD HH:mm:ss", "dddd DD MMM YYYY");
 
-//Output: "Monday 28 Aug 2017"
+// Output: "Monday 28 Aug 2017"
 ```
 
 ### `Timestamp from custom date format`
