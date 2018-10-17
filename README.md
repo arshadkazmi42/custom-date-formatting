@@ -11,7 +11,7 @@
 ### `Custom Format date with Days (+/-)`
 Pass the <b>format</b> of  the date required and <b>numberOfDays</b> to add from current day to the Function.<br>
 For previous days <b>numberOfDays</b> should be passed as negative value.<br>
-```
+```javascript
 // Create Instance of the DateValidator
 const DateFormatting = require('custom-date-formatting');
 // This will return a string with new date
@@ -22,7 +22,7 @@ Output: "2018-10-06"
 
 ### `Custom Format date with Minutes (+/-)`
 Pass the <b>format</b> of date required and <b>minutesToAdd</b> to add/subtract minutes from current time to the Function.<br> For passed minute of time, <b>minutesToAdd</b> should be passed as negative value.<br>
-```
+```javascript
 // Create Instance of the DateValidator
 const DateFormatting = require('custom-date-formatting');
 // This will return a string with new date and time
@@ -32,7 +32,7 @@ DateFormatting.getNextOrPrevMinuteDateCustomFormat("YYYY-MM-DD HH:mm", 1);
 
 ### `Custom Format date with Seconds (+/-)`
 Pass the <b>format</b> of date required and <b>secondsToAdd</b> to add/subtract seconds from current time.<br>For passed minute of time, <b>secondsToAdd</b> should be passed as negative value.<br>
-```
+```javascript
 // Create Instance of the DateValidator
 const DateFormatting = require('custom-date-formatting');
 // This will return a string with new date and time
@@ -43,7 +43,7 @@ Output: "2018-10-06 00:40:02"
 
 ### `Custom Source Format date custom new format`
 Pass the <b>date</b> (input date), <b>currentFormat</b> (input date format), <b>newformat</b>. (required date format)to the Function.<br>
-```
+```javascript
 // Create Instance of the DateValidator
 const DateFormatting = require('custom-date-formatting');
 // This will return a string with date in new format
@@ -53,7 +53,7 @@ DateFormatting.customSourceDateFormatToCustomNewDateFormat("2017-08-28 23:22:00"
 
 ### `Timestamp from custom date format`
 Pass the <b>date</b> (input date), <b>currentFormat</b> (input date format)to the function.<br>
-```
+```javascript
 // Create Instance of the DateValidator
 const DateFormatting = require('customdateformatting');
 // This will return input date value as timestamp in milliseconds.
