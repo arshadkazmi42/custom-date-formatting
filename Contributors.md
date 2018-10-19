@@ -1,4 +1,5 @@
 #### We sincerely thank people who have been activlely contributing to this repository:
+
 - [Deepanshu Gandhi](https://github.com/nine-tails9)
 - [Bishal Panda](https://github.com/sidsau97)
 - [Arshad Kazmi](https://github.com/arshadkazmi42)
@@ -17,6 +18,7 @@
 - [Mike Tobias](https://github.com/mct-dev)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
 - [Annie Wong](https://github.com/anniann)
+- [Kamal Iqlaas](https://github.com/Iqlaas)
 - [Ali Piry](https://github.com/yripila)
 - [Ayush Kothari](https://github.com/aayushkothari11)
 - [Deepanshu Gandhi](https://github.com/nine-tails9)
