@@ -16,6 +16,7 @@
 - [Joell Lapitan](https://github.com/jlapitan)
 - [Tato Alves](https://github.com/tatoalves)
 - [FlameAngulat](https://github.com/flameAngular)
+- [Chong Jin Yi](https://github.com/chong601)
 - [Mike Tobias](https://github.com/mct-dev)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
 - [Annie Wong](https://github.com/anniann)
