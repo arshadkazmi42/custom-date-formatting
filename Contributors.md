@@ -14,6 +14,7 @@
 - [Akash Agarwal](https://github.com/agarwal-akash)
 - [Adrian Teri](https://github.com/Adrianteri)
 - [Joell Lapitan](https://github.com/jlapitan)
+- [Tato Alves](https://github.com/tatoalves)
 - [FlameAngulat](https://github.com/flameAngular)
 - [Mike Tobias](https://github.com/mct-dev)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
