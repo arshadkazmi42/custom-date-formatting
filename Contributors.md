@@ -44,6 +44,7 @@
 - [Vishal Bhardwaj](https://github.com/srdevelopervishal)
 - [Chris Galvan](https://github.com/chrisgalvan)
 - [meghanagottapu](https://github.com/meghanagottapu) 
-- [Kavan Pancholi](https://github.com/kavanpancholi) 
+- [Kavan Pancholi](https://github.com/kavanpancholi)
+- [Krutagn Patel](https://github.com/Krutagn)
 
 *Hoping to add you to this list as well ;) *
