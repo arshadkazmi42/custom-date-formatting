@@ -16,7 +16,7 @@
 - [Adrian Teri](https://github.com/Adrianteri)
 - [Joell Lapitan](https://github.com/jlapitan)
 - [Tato Alves](https://github.com/tatoalves)
-- [Balamurugan] (https://github.com/dillbala)
+- [Balamurugan](https://github.com/dillbala)
 - [FlameAngulat](https://github.com/flameAngular)
 - [Chong Jin Yi](https://github.com/chong601)
 - [Mike Tobias](https://github.com/mct-dev)
