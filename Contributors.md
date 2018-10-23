@@ -10,6 +10,7 @@
 - [Ashutosh Dwivedi](https://github.com/shubhankarb180)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Saurav Jaiswal](https://github.com/sauravjaiswalsj)
+- [Bibek Luitel](https://github.com/bibekluitel)
 - [Indraneel Sarkar](https://github.com/sark01)
 - [Akash Agarwal](https://github.com/agarwal-akash)
 - [Adrian Teri](https://github.com/Adrianteri)
