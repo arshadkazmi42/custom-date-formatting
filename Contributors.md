@@ -51,5 +51,6 @@
 - [meghanagottapu](https://github.com/meghanagottapu) 
 - [Kavan Pancholi](https://github.com/kavanpancholi)
 - [Krutagn Patel](https://github.com/Krutagn)
+- [Ruthiel Trevisan](https://github.com/ruthiel)
 
 *Hoping to add you to this list as well ;) *
