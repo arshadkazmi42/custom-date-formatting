@@ -1,0 +1,8 @@
+{
+    "esversion": 6,
+    "-W097": true,
+    "globals": {
+        "module": false,
+        "require": false
+    }
+}

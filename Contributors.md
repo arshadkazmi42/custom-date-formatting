@@ -48,9 +48,10 @@
 - [Alvin Tandiardi](https://github.com/alvintan05)
 - [Vishal Bhardwaj](https://github.com/srdevelopervishal)
 - [Chris Galvan](https://github.com/chrisgalvan)
-- [meghanagottapu](https://github.com/meghanagottapu) 
+- [meghanagottapu](https://github.com/meghanagottapu)
 - [Kavan Pancholi](https://github.com/kavanpancholi)
 - [Krutagn Patel](https://github.com/Krutagn)
 - [Ruthiel Trevisan](https://github.com/ruthiel)
+- [Alex Dresko](https://github.com/alexdresko)
 
 *Hoping to add you to this list as well ;) *
