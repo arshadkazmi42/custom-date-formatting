@@ -3,6 +3,7 @@
 [![Dependencies](https://david-dm.org/arshadkazmi42/customd-ate-formating.svg)](https://david-dm.org/arshadkazmi42/custom-date-formating)
 [![npm Downloads](https://img.shields.io/npm/dm/customdateformating.svg)](https://www.npmjs.com/package/customdateformating)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a47235834dff4a88ae37bdc7460a5c7d)](https://www.codacy.com/app/arshadkazmi42/custom-date-formatting?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arshadkazmi42/custom-date-formatting&amp;utm_campaign=Badge_Grade)
+[![Build Badge](https://api.travis-ci.org/arshadkazmi42/custom-date-formatting.svg?branch=master)](https://travis-ci.org/arshadkazmi42/custom-date-formatting)
 
 ## How to install?
 [![NPM](https://nodei.co/npm/customdateformating.png)](https://www.npmjs.com/package/customdateformating/)
