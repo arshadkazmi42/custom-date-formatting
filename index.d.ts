@@ -45,13 +45,13 @@ declare const _default: {
      * @returns {string} (Returns input date with new input format)
      *
      */
-    customSourceDateFormatToCustomNewDateFormat(date: Date, currentFormat: string, newFormat: string): string;
+    customSourceDateFormatToCustomNewDateFormat(date: string | Date, currentFormat: string, newFormat: string): string;
     /**
      * Get Timestamp from input date and input date format (Converting input date ti timestamp in milliseconds)
      * @param date (input date)
      * @param currentFormat (input date format)
      * @returns {number} (returns time in milliseconds)
      */
-    getTimeStampFromCurrentDateFormat(date: Date, currentFormat: string): number;
+    getTimeStampFromCurrentDateFormat(date: string | Date, currentFormat: string): number;
 };
 export = _default;

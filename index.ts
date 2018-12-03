@@ -1,4 +1,4 @@
-import * as moment from "moment";
+import moment = require('moment');
 
 export = {
 
@@ -59,7 +59,7 @@ export = {
      * @returns {string} (Returns input date with new input format)
      *
      */
-    customSourceDateFormatToCustomNewDateFormat(date: Date, currentFormat: string, newFormat: string) : string {
+    customSourceDateFormatToCustomNewDateFormat(date: Date | string, currentFormat: string, newFormat: string) : string {
         return moment(date, currentFormat).format(newFormat);
     },
 
@@ -69,7 +69,7 @@ export = {
      * @param currentFormat (input date format)
      * @returns {number} (returns time in milliseconds)
      */
-    getTimeStampFromCurrentDateFormat(date: Date, currentFormat: string) : number {
+    getTimeStampFromCurrentDateFormat(date: Date | string, currentFormat: string) : number {
         return (new Date(moment(date, currentFormat).format("YYYY-MM-DD HH:mm:ss")).getTime());
     }
 };

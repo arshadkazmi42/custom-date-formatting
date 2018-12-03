@@ -38,6 +38,8 @@
     "typescript": "^3.2.1"
   },
   "dependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/jest": "^23.3.10",
     "moment": "^2.18.1"
   }
 }
