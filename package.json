@@ -3,11 +3,14 @@
   "version": "1.0.2",
   "description": "Small npm package for custom date formatting",
   "main": "index.js",
+  "types": "index.d.ts",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "build": "tsc",
+    "watch": "tsc --watch"
   },
   "repository": {
     "type": "git",
@@ -29,8 +32,14 @@
   },
   "homepage": "https://github.com/arshadkazmi42/custom-date-formatting#readme",
   "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/jest": "^23.3.10",
+    "@types/node": "^10.12.11",
+    "ts-node": "^7.0.1",
     "chai": "^4.1.1",
-    "mocha": "^3.5.0"
+    "jshint": "^2.9.6",
+    "mocha": "^3.5.0",
+    "typescript": "^3.2.1"
   },
   "dependencies": {
     "moment": "^2.18.1"
