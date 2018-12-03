@@ -1,5 +1,6 @@
 import moment = require('moment');
 import customDateFormatting = require('../index');
+var should = require('chai').should();
 
 var nextOrPrevDateCustomFormat = customDateFormatting.getNextOrPrevDateCustomFormat,
     nextOrPrevMinuteDateCustomFormat = customDateFormatting.getNextOrPrevMinuteDateCustomFormat,

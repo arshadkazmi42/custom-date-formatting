@@ -32,12 +32,13 @@
   },
   "homepage": "https://github.com/arshadkazmi42/custom-date-formatting#readme",
   "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/jest": "^23.3.10",
+    "@types/node": "^10.12.11",
     "chai": "^4.1.1",
     "jshint": "^2.9.6",
     "mocha": "^3.5.0",
-    "typescript": "^3.2.1",
-    "@types/chai": "^4.1.7",
-    "@types/jest": "^23.3.10"
+    "typescript": "^3.2.1"
   },
   "dependencies": {
     "moment": "^2.18.1"

@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const moment = require("moment");
 const customDateFormatting = require("../index");
+var should = require('chai').should();
 var nextOrPrevDateCustomFormat = customDateFormatting.getNextOrPrevDateCustomFormat, nextOrPrevMinuteDateCustomFormat = customDateFormatting.getNextOrPrevMinuteDateCustomFormat, nextOrPrevSecondDateCustomFormat = customDateFormatting.getNextOrPrevSecondDateCustomFormat, customSourceDateFormatToCustomNewDateFormat = customDateFormatting.customSourceDateFormatToCustomNewDateFormat, timeStampFromCurrentDateFormat = customDateFormatting.getTimeStampFromCurrentDateFormat;
 describe('#nextOrPrevDateCustomFormat', function () {
     it('converts input date to next date', function () {
