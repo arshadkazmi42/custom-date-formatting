@@ -16,6 +16,6 @@ If you are looking forward to start contributing to beautiful world of open sour
 - Create Pull Request againts `master` branch
 - Add a suitable title and description to the pull request and tag the issue number in Pull Request description, if the pull request is related to some issue logged here: [Issues](https://github.com/arshadkazmi42/custom-date-formatting/issues)
 - You're done. Wait for your code to get reviewed and merge
-- Optiona: Give us a :star: if you like our work :smile:
+- Optional: Give us a :star: if you like our work :smile:
 
 
