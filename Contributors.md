@@ -7,6 +7,7 @@
 - [Sachin Kumar](https://github.com/rogers9798)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Bolaji Ayodeji](https://github.com/bolajiayodeji)
+- [Roshan Adhikari](https://github.com/nahsorad)
 - [Reggie Williams](https://github.com/Ark20)
 - [Ashutosh Dwivedi](https://github.com/shubhankarb180)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
