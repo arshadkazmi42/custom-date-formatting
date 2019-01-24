@@ -1,6 +1,6 @@
 # Custom Date Formatting
 [![Build Badge](https://api.travis-ci.org/arshadkazmi42/custom-date-formatting.svg?branch=master)](https://travis-ci.org/arshadkazmi42/custom-date-formatting)
-[![npm Downloads](https://img.shields.io/npm/dm/customdateformating.svg)](https://www.npmjs.com/package/customdateformating)
+[![npm Downloads](https://img.shields.io/npm/dt/customdateformating.svg)](https://www.npmjs.com/package/customdateformating)
 [![Package Size](https://img.shields.io/bundlephobia/min/customdateformating.svg)](https://www.npmjs.com/package/customdateformating)
 [![NPM Version](https://img.shields.io/npm/v/squash.svg)](https://www.npmjs.com/package/customdateformating)
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/custom-date-formatting.svg)](https://github.com/arshadkazmi42/custom-date-formatting/graphs/contributors)
