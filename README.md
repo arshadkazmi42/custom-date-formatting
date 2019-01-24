@@ -9,6 +9,8 @@
 ## How to install?
 [![NPM](https://nodei.co/npm/customdateformating.png)](https://www.npmjs.com/package/customdateformating/)
 
+## Usage
+
 ### Custom Format date with Days (+/-)
 Pass the <b>format</b> of  the date required and <b>numberOfDays</b> to add from current day to the Function.<br>
 For previous days <b>numberOfDays</b> should be passed as negative value.<br>
@@ -70,8 +72,8 @@ DateFormatting.getTimeStampFromCurrentDateFormat("28 Aug 2017", "DD MMM YYYY");
 // Output: 1503858600000
 ```
 
-# Contributors
+## Contributors
 [![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/images/0)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/links/0)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/images/1)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/links/1)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/images/2)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/links/2)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/images/3)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/links/3)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/images/4)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/links/4)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/images/5)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/links/5)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/images/6)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/links/6)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/images/7)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/custom-date-formatting/links/7)<br>
 
-# Contributing Guidelines
+## Contributing Guidelines
 Read the contributing guidelines [here](CONTRIBUTING.md)
