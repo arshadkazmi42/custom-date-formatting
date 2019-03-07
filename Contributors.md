@@ -39,6 +39,7 @@
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [Maria Camila Gómez](https://github.com/camigomez35)
 - [Sinu Mohan](https://github.com/sinumohan)
+- [Paul Moon](https://github.com/OnesQuared)
 - [Grave](https://github.com/samuelgrave)
 - [Arjun Rajpal](https://github.com/arjunrajpal)
 - [Param Mittal](https://github.com/parammittal16)
