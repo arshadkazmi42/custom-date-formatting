@@ -35,6 +35,7 @@
 - [Obamrevwo Ejiro Ewin](https://github.com/Ejiro-Edwin)
 - [Carmela Valarao](https://github.com/ccarmivalarao)
 - [Ryan M](https://github.com/hyp3rflux)
+- [Felipe Cunha](https://https://github.com/feliperucunha)
 - [Juan Insuasti](https://github.com/locke189)
 - [Sarfraz Anwar](https://github.com/msarfrazanwar)
 - [Aakash Agarwal](https://github.com/aakash2602)
