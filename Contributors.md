@@ -9,6 +9,7 @@
 - [Bolaji Ayodeji](https://github.com/bolajiayodeji)
 - [Roshan Adhikari](https://github.com/nahsorad)
 - [Reggie Williams](https://github.com/Ark20)
+- [Shaekh Jamal](https://github.com/shaekhjamal)
 - [Ashutosh Dwivedi](https://github.com/shubhankarb180)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Saurav Jaiswal](https://github.com/sauravjaiswalsj)
