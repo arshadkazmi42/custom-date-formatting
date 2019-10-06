@@ -29,6 +29,7 @@
 - [Annie Wong](https://github.com/anniann)
 - [Kamal Iqlaas](https://github.com/Iqlaas)
 - [Ali Piry](https://github.com/yripila)
+- [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Tushar](https://github.com/tusharkavya)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Ayush Kothari](https://github.com/aayushkothari11)
